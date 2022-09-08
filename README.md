@@ -5,9 +5,9 @@ Este projeto faz conexão com a Moderninha PRO modelo S920 (Imagem a baixo), nã
 
 ## DOWNLOADS NECESSARIOS (ja inclusos na source)
 [PPPagSeguro.dll](https://www.mediafire.com/file/i5ke8y87c6kqeys/PPPagSeguro.dll/file)
--
+
 [Newtonsoft.Json.dll](https://www.mediafire.com/file/r7lty4untug5fac/Newtonsoft.Json.dll/file)
--
+
 [BTSerial.dll](https://www.mediafire.com/file/bq6k1df8di8zalo/BTSerial.dll/file)
 
 ## Links e Documentação oficial:
